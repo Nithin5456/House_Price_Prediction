@@ -13,7 +13,7 @@ This project is a machine learning-based web application that predicts house pri
 - Frontend: HTML, CSS  
 - Machine Learning Model: Linear Regression  
 - Data Handling: Pandas, NumPy  
-- Visualization: Matplotlib (if applicable)  
+- Visualization: Matplotlib   
 
  Setup Instructions   
 
